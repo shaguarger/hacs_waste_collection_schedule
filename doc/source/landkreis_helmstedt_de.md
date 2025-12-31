@@ -39,7 +39,7 @@ _(int) (required)_ : Number from the PDF calendar from the calendar website for 
 **altpapier**
 _(int) (required)_ : Number from the PDF calendar from the calendar website for your municipal
 
-## Example for Rhode 2025
+## Example for Rhode 2026
 
 ```yaml
 waste_collection_schedule:
@@ -47,8 +47,8 @@ waste_collection_schedule:
     - name: landkreis_helmstedt_de
       args:
         municipal: "Nord-Elm und Königslutter Ortsteile"
-        restabfall: 2
-        bioabfall: 2
+        restabfall: 1
+        bioabfall: 1
         gelber_sack: 1
-        altpapier: 2
+        altpapier: 4
 ```

@@ -26,10 +26,10 @@ TEST_CASES = {
     },
     "Rhode": {
         "municipal": "Nord-Elm und Königslutter Ortsteile",
-        "restabfall": 2,
-        "bioabfall": 2,
+        "restabfall": 1,
+        "bioabfall": 1,
         "gelber_sack": 1,
-        "altpapier": 2,
+        "altpapier": 4,
     },
     "Essehof": {
         "municipal": "Lehre",
@@ -50,7 +50,7 @@ TEST_CASES = {
         "restabfall": 3,
         "bioabfall": 3,
         "gelber_sack": 3,
-        "altpapier": 5,
+        "altpapier": 1,
     },
 }
 
